@@ -1,1 +1,1 @@
-# dockertest
+# A playground for dockerfile builds
